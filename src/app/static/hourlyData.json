@@ -1,0 +1,194 @@
+[
+  {
+    "DateTime": "2024-06-14T12:00:00+05:30",
+    "EpochDateTime": 1718346600,
+    "WeatherIcon": 2,
+    "IconPhrase": "Mostly sunny",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 36.9,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=12&unit=c&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=12&unit=c&lang=en-us"
+  },
+  {
+    "DateTime": "2024-06-14T13:00:00+05:30",
+    "EpochDateTime": 1718350200,
+    "WeatherIcon": 2,
+    "IconPhrase": "Mostly sunny",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 38.5,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=13&unit=c&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=13&unit=c&lang=en-us"
+  },
+  {
+    "DateTime": "2024-06-14T14:00:00+05:30",
+    "EpochDateTime": 1718353800,
+    "WeatherIcon": 2,
+    "IconPhrase": "Mostly sunny",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 40,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=14&unit=c&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=14&unit=c&lang=en-us"
+  },
+  {
+    "DateTime": "2024-06-14T15:00:00+05:30",
+    "EpochDateTime": 1718357400,
+    "WeatherIcon": 2,
+    "IconPhrase": "Mostly sunny",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 40.9,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=15&unit=c&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=15&unit=c&lang=en-us"
+  },
+  {
+    "DateTime": "2024-06-14T16:00:00+05:30",
+    "EpochDateTime": 1718361000,
+    "WeatherIcon": 2,
+    "IconPhrase": "Mostly sunny",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 41.5,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=16&unit=c&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=16&unit=c&lang=en-us"
+  },
+  {
+    "DateTime": "2024-06-14T17:00:00+05:30",
+    "EpochDateTime": 1718364600,
+    "WeatherIcon": 2,
+    "IconPhrase": "Mostly sunny",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 42.2,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=17&unit=c&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=17&unit=c&lang=en-us"
+  },
+  {
+    "DateTime": "2024-06-14T18:00:00+05:30",
+    "EpochDateTime": 1718368200,
+    "WeatherIcon": 2,
+    "IconPhrase": "Mostly sunny",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 40.9,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=18&unit=c&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=18&unit=c&lang=en-us"
+  },
+  {
+    "DateTime": "2024-06-14T19:00:00+05:30",
+    "EpochDateTime": 1718371800,
+    "WeatherIcon": 2,
+    "IconPhrase": "Mostly sunny",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 40.2,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 1,
+    "MobileLink": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=19&unit=c&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=19&unit=c&lang=en-us"
+  },
+  {
+    "DateTime": "2024-06-14T20:00:00+05:30",
+    "EpochDateTime": 1718375400,
+    "WeatherIcon": 34,
+    "IconPhrase": "Mostly clear",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 39.2,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 1,
+    "MobileLink": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=20&unit=c&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=20&unit=c&lang=en-us"
+  },
+  {
+    "DateTime": "2024-06-14T21:00:00+05:30",
+    "EpochDateTime": 1718379000,
+    "WeatherIcon": 34,
+    "IconPhrase": "Mostly clear",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 37.5,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 1,
+    "MobileLink": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=21&unit=c&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=21&unit=c&lang=en-us"
+  },
+  {
+    "DateTime": "2024-06-14T22:00:00+05:30",
+    "EpochDateTime": 1718382600,
+    "WeatherIcon": 34,
+    "IconPhrase": "Mostly clear",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 35.8,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 1,
+    "MobileLink": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=22&unit=c&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=22&unit=c&lang=en-us"
+  },
+  {
+    "DateTime": "2024-06-14T23:00:00+05:30",
+    "EpochDateTime": 1718386200,
+    "WeatherIcon": 35,
+    "IconPhrase": "Partly cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 34.2,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 1,
+    "MobileLink": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=23&unit=c&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/dungarpur/190349/hourly-weather-forecast/190349?day=1&hbhhour=23&unit=c&lang=en-us"
+  }
+]
